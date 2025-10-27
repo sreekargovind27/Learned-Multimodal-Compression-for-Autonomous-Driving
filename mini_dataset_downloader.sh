@@ -12,7 +12,7 @@ OUTPUT_DIR="nuscenes_data"
 # The link will look like: https://drive.google.com/drive/folders/FOLDER_ID_HERE
 # Extract the FOLDER_ID_HERE part and paste it below
 
-GDRIVE_FOLDER_ID="1-3pgeENOXzrD0HeMnH8z9GOHVBBhHgfu"
+GDRIVE_FOLDER_ID="place_holder"
 
 # --- Step 1: Check if gdown is installed ---
 echo "--- Checking for gdown (Google Drive downloader) ---"
