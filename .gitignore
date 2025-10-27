@@ -1,0 +1,4 @@
+# Ignore nuScenes data directories
+nuscenes_data/
+nuscenes-env/
+
