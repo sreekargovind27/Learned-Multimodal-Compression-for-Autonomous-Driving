@@ -1,0 +1,7 @@
+NUSCENES_BASE_PATH = "/path/to/nuscenes_data"
+MINI_PATH = NUSCENES_BASE_PATH + "/mini"
+CAN_BUS_PATH = NUSCENES_BASE_PATH + "/can_bus"
+MAPS_PATH = NUSCENES_BASE_PATH + "/maps"
+VERSION = "v1.0-mini"
+OUTPUT_DIR = "./output"
+RANDOM_SEED = 42
